@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am a software developer, recent graduate from Computer Engineering at Abdullah Gül University. I am passionate about crafting clean, maintainable code and continuously expanding my expertise in Java, Flutter, and React to build dynamic and user-friendly applications. Alongside these, I have experience with C# and backend development, focusing on writing efficient, reliable code following best practices.
+
+Driven by a passions for learning and problem-solving, I enjoy creating practical software solutions that improve user experiences and address real-world challenges. My projects showcase a blend of creativity and technical discipline, and I’m eager to collaborate and contribute to innovative teams.
 
 <!--
 **yfgokkus/yfgokkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
