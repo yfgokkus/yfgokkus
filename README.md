@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a software developer, recent graduate from Computer Engineering at Abdullah Gül University. I am passionate about crafting clean, maintainable code and continuously expanding my expertise in Java, Flutter, React and SQL to build dynamic and user-friendly applications. Alongside these, I have experience with C# and PHP as well, focusing on best practices in every aspect of software development.
+I am a software developer, recent graduate of Abdullah Gül University with Bachelor's Degree in Computer Engineering. I am passionate about crafting clean, maintainable code and continuously expanding my expertise in Java, Flutter, React and SQL to build dynamic and user-friendly applications. Alongside these, I have experience with C# and PHP as well, focusing on best practices in every aspect of software development.
 
 Driven by a passion for learning and problem-solving, I enjoy creating practical software solutions that improve user experiences and address real-world challenges. My projects showcase a blend of creativity and technical discipline, and I’m eager to collaborate and contribute to innovative teams.
 
