@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a software developer with a Bachelor's Degree in Computer Engineering. I am passionate about crafting clean, maintainable code and continuously expanding my expertise in full-stack development using weightedly Java, React, and Flutter for building modern applications. I also have experience in PHP, desktop development with C#, and backend development with .NET Core.
+I am a software developer with a Bachelor's Degree in Computer Engineering. I am passionate about crafting clean, maintainable code and continuously expanding my expertise in full-stack development using weightedly Java, React, and Flutter. I also have experience in PHP, desktop development with C#, and backend development with .NET Core.
 
 Driven by a passion for learning and problem-solving, I enjoy creating practical software solutions that improve user experiences and address real-world challenges. My projects showcase a blend of creativity and technical discipline, and I’m eager to collaborate and contribute to innovative teams.
 
