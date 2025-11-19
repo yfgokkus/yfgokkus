@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a software developer with a Bachelor's Degree in Computer Engineering. I am passionate about crafting clean, maintainable code and continuously expanding my expertise in full-stack development using weightedly Java, React, and Flutter. I also have experience in PHP, desktop development with C#, and backend development with .NET Core.
 
-Driven by a passion for learning and problem-solving, I enjoy creating practical software solutions that improve user experiences and address real-world challenges. My projects showcase a blend of creativity and technical discipline, and I’m eager to collaborate and contribute to innovative teams.
+Driven by a passion for learning and problem-solving, I enjoy creating practical software solutions that improve user experiences and address real-world challenges. My projects showcase a blend of creativity and technical discipline, and I’m eager to collaborate and contribute to innovative teams and interesting projects.
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
